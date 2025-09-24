@@ -1,0 +1,10 @@
+{
+  "description": "My awesome portfolio",
+  "repo": "https://github.com/rf223x",
+  "owner": {
+    "username": "rf223x"
+  },
+  "record": {
+    "CNAME": "rf223x.github.io"
+  }
+}
